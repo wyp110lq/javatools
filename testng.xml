@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testng套件Suite" parallel="false">
+    <test name="注解测试">
+        <classes>
+            <class name="testngtest.AnnotationsTest"/>
+            <class name="testngtest.ExpectedExceptionTest"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

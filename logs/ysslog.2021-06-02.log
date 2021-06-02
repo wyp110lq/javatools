@@ -2,3 +2,11 @@
 2021-06-02 10:55:53.031 [main] INFO  slf4jandlogbacktest.LogTest - 测试日志框slf4j和logback
 2021-06-02 11:02:40.986 [main] INFO  slf4jandlogbacktest.LogTest - 测试日志框slf4j和logback
 2021-06-02 11:03:12.441 [main] INFO  slf4jandlogbacktest.LogTest - 测试日志框slf4j和logback
+2021-06-02 13:26:58.383 [main] WARN  org.apache.jmeter.util.JMeterUtils - Exception 'null' occurred when fetching String property:'sampleresult.default.encoding', defaulting to: ISO-8859-1
+2021-06-02 13:26:58.383 [main] WARN  org.apache.jmeter.util.JMeterUtils - Exception 'null' occurred when fetching boolean property:'sampleresult.timestamp.start', defaulting to: false
+2021-06-02 13:26:58.383 [main] WARN  org.apache.jmeter.util.JMeterUtils - Exception 'null' occurred when fetching boolean property:'sampleresult.useNanoTime', defaulting to: true
+2021-06-02 13:26:58.383 [main] WARN  org.apache.jmeter.util.JMeterUtils - Exception 'null' occurred when fetching int property:'sampleresult.nanoThreadSleep', defaulting to: 5000
+2021-06-02 13:26:58.383 [main] INFO  org.apache.jmeter.samplers.SampleResult - Note: Sample TimeStamps are END times
+2021-06-02 13:26:58.383 [main] INFO  org.apache.jmeter.samplers.SampleResult - sampleresult.default.encoding is set to ISO-8859-1
+2021-06-02 13:26:58.383 [main] INFO  org.apache.jmeter.samplers.SampleResult - sampleresult.useNanoTime=true
+2021-06-02 13:26:58.383 [main] INFO  org.apache.jmeter.samplers.SampleResult - sampleresult.nanoThreadSleep=5000
