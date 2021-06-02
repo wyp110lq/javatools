@@ -1,0 +1,4 @@
+2021-06-02 10:52:58.751 [main] INFO  slf4jandlogbacktest.LogTest - 测试日志框slf4j和logback
+2021-06-02 10:55:53.031 [main] INFO  slf4jandlogbacktest.LogTest - 测试日志框slf4j和logback
+2021-06-02 11:02:40.986 [main] INFO  slf4jandlogbacktest.LogTest - 测试日志框slf4j和logback
+2021-06-02 11:03:12.441 [main] INFO  slf4jandlogbacktest.LogTest - 测试日志框slf4j和logback
